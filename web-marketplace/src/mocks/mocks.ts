@@ -1,6 +1,6 @@
 import mock from './mock.json';
 
-// TODO Remove as part of https://github.com/regen-network/regen-registry/issues/726
+// TODO Remove as part of https://github.com/RegenNetwork/regen-registry/issues/726
 export interface Methodology {
   id: string;
   imageSrc: string;

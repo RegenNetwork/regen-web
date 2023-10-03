@@ -8,7 +8,7 @@ RUN apt-get install git libpq-dev gcc postgresql-client -y
 ENV GIT_CHECKOUT='8d3635aa33d4d49db903f947bb357c938d168f8d'
 
 # Clone regen ledger
-RUN git clone https://github.com/regen-network/indexer/ /home/indexer
+RUN git clone https://github.com/RegenNetwork/indexer/ /home/indexer
 
 # Set working directory
 WORKDIR /home/indexer

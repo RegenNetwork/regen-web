@@ -162,7 +162,7 @@ export const greenTopIconCard = (): JSX.Element => (
       title="Green card 1"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       linkText="Link text"
-      linkUrl="https://github.com/regen-network"
+      linkUrl="https://github.com/RegenNetwork"
       imgSrc="./mainnet-validators.svg"
     />
   </>

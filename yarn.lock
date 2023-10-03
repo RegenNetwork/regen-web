@@ -26394,7 +26394,7 @@ rdf-validate-datatype@^0.1.1:
 
 rdf-validate-shacl@regen-network/rdf-validate-shacl#master:
   version "0.3.1"
-  resolved "https://codeload.github.com/regen-network/rdf-validate-shacl/tar.gz/3b84eaa5dde62e93319cd778ac734b766e356663"
+  resolved "https://codeload.github.com/RegenNetwork/rdf-validate-shacl/tar.gz/3b84eaa5dde62e93319cd778ac734b766e356663"
   dependencies:
     "@rdfjs/dataset" "^1.0.0"
     "@rdfjs/namespace" "^1.0.0"

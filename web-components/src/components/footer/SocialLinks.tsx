@@ -113,7 +113,7 @@ const SocialLinks: React.FC<React.PropsWithChildren<Props>> = ({
           <YoutubeIcon className={cx(styles.smallIcon, styles.icon)} />
         </Link>
         <Link
-          href="https://github.com/regen-network/"
+          href="https://github.com/RegenNetwork/"
           rel="noopener noreferrer"
           target="_blank"
         >

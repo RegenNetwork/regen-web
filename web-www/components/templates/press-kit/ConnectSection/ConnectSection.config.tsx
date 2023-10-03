@@ -101,7 +101,7 @@ export const getPressKitConnectIcons = (theme: Theme): IconLabelProps[] => [
         hoverColor={theme.palette.secondary.main}
       />
     ),
-    href: 'https://github.com/regen-network/',
+    href: 'https://github.com/RegenNetwork/',
     label: 'Github',
   },
   {

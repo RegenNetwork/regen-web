@@ -255,7 +255,7 @@ function CreditClassDetails({
       />
 
       {/* // TODO Display not found or error status
-      // based on https://github.com/regen-network/regen-registry/issues/886*/}
+      // based on https://github.com/RegenNetwork/regen-registry/issues/886*/}
     </>
   );
 }

@@ -166,7 +166,7 @@ export const useProjectWithMetadata = ({
         await metadataReload();
       } catch (e) {
         // TODO: Should we display the error banner here?
-        // https://github.com/regen-network/regen-registry/issues/554
+        // https://github.com/RegenNetwork/regen-registry/issues/554
         // eslint-disable-next-line no-console
         console.log(e);
       }

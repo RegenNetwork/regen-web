@@ -11,7 +11,7 @@ RUN apt-get install libpq-dev postgresql-client -y
 ENV GIT_CHECKOUT='a18df8663d6e25495a3bfeaf86e985855fff15a6'
 
 # Clone repository
-RUN git clone https://github.com/regen-network/registry-server/ /home/server
+RUN git clone https://github.com/RegenNetwork/registry-server/ /home/server
 
 # Set working directory
 WORKDIR /home/server

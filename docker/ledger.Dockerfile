@@ -9,7 +9,7 @@ ENV GIT_CHECKOUT='v5.1.2'
 ENV REGEN_CHAIN_ID='regen-local'
 
 # Clone regen ledger
-RUN git clone https://github.com/regen-network/regen-ledger/ /home/ledger
+RUN git clone https://github.com/RegenNetwork/regen-ledger/ /home/ledger
 
 # Set working directory
 WORKDIR /home/ledger

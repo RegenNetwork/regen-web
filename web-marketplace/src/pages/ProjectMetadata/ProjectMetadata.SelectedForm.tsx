@@ -24,7 +24,7 @@ export const ProjectMetadataSelectedForm = ({
 }: Props): JSX.Element => (
   // const isVCS = !!creditClassId && isVCSCreditClass(creditClassId);
   // isVCS ? (
-  //   // TODO https://github.com/regen-network/regen-registry/issues/908
+  //   // TODO https://github.com/RegenNetwork/regen-registry/issues/908
   //   // Temporarily using ProjectMetadataForm for all cases
   //   <Box sx={{ display: 'flex', justifyContent: 'center' }}>
   //     {'VCS metadata form not implemented yet'}
